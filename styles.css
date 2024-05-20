@@ -1,0 +1,38 @@
+/* Altera a cor de fundo do cabeçalho */
+.cabecalho {
+    background-color: lightblue; 
+    height: 50px;
+}
+
+/* Formatação do pargrafo */
+p{
+    text-align: justify;
+    color: black;  
+}
+
+ /* Cria as caixas no entrono dos titulos */
+.caixas {
+    display: inline-block;
+    margin-right: 15px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+
+ /* Sublinha o texto*/
+.sublinhado {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Centraliza o conteúdo */
+.center {
+    text-align: center; 
+}
+
+
